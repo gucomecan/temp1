@@ -1,0 +1,4 @@
+[submodule "temp2"]
+	path = temp2
+	url = https://github.com/gucomecan/temp2.git
+	branch = main
